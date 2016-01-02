@@ -1,1 +1,1 @@
-akdeniz.github.io
+http://akdeniz.github.io
