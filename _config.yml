@@ -93,7 +93,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : akdeniz_github
+      short_name : akdenizgithub
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
